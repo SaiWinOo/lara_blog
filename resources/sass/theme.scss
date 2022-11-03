@@ -1,0 +1,15 @@
+
+
+$carousel-control-color: primary;
+
+@import "venobox/dist/venobox.min.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+@import "bwvariables";
+@import "bootstrap/scss/bootstrap";
+@import "bootswatch";
+
+.photo_carousel{
+    height: 350px;
+    object-fit: contain;
+}
